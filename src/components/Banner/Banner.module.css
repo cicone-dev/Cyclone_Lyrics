@@ -1,0 +1,9 @@
+.banner{
+    width: 100%; /*   A imagem tem  743 x 476  */
+    max-width: 1920px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 68px;
+}
