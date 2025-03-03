@@ -1,61 +1,39 @@
-# LyricsFinder React App
+# Cyclone Lyrics - Projeto React
 
-This is a React version of the LyricsFinder application, which allows users to search for song lyrics, view artist information, and translate lyrics.
+Bem-vindo ao LyricsFinder, um aplicativo moderno e intuitivo desenvolvido em React, que permite aos usuários buscar letras de músicas, explorar informações sobre artistas e traduzir letras de forma prática.
 
-## Features
+## 🎵 Funcionalidades Principais
 
-- Search for songs and artists
-- View top global hits
-- Browse music by genre
-- View song lyrics
-- Watch music videos
-- Learn about artists and their albums
-- Translate lyrics
-- Dark/light mode toggle
+- 🔎 Pesquisa Inteligente: Encontre músicas e artistas rapidamente
 
-## Getting Started
+- 🌍 Descubra Hits Globais: Veja as músicas mais populares do momento
 
-### Prerequisites
+- 🎼 Exploração por Gênero: Filtre músicas pelo seu estilo favorito
 
-- Node.js (v14 or higher)
-- npm or yarn
+- 📝 Letras de Músicas: Acesse letras completas de suas músicas preferidas
 
-### Installation
+- 🎥 Vídeos Musicais: Assista a clipes diretamente na plataforma
 
-1. Clone the repository
-2. Install dependencies:
+- 📜 Informações sobre Artistas e Álbuns: Conheça mais sobre seus ídolos
 
-```bash
-npm install
-```
+- 🌐 Tradução de Letras: Entenda as músicas em diferentes idiomas
 
-3. Start the development server:
+- 🌙 Modo Escuro/Claro: Personalize a experiência visual
 
-```bash
-npm start
-```
+## 🚀 Tecnologia Utilizada
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React - Framework para a construção da interface
 
-## API Keys
 
-The application uses the following APIs:
 
-- Last.fm API - For fetching song, artist, and album information
-- YouTube Data API - For fetching music videos
-- Lyrics.ovh API - For fetching song lyrics
-- LibreTranslate API - For translating lyrics
+## 🔗 Integração com APIs
 
-## Building for Production
+Este aplicativo utiliza diversas APIs para fornecer uma experiência completa:
 
-To build the app for production, run:
+- 🎶 API Last.fm - Informações sobre músicas, artistas e álbuns
 
-```bash
-npm run build
-```
+- 📺 API do YouTube - Busca de vídeos musicais
 
-This will create a `build` folder with the production-ready application.
+- 🎤 API Lyrics.ovh - Obtenção de letras de músicas
 
-## License
-
-This project is licensed under the MIT License.
+- 🌍 API LibreTranslate - Tradução de letras de músicas
